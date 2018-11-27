@@ -1,0 +1,57 @@
+.top {
+  width: auto;
+  height: 20vh;
+  margin: 20px;
+  border: 3px solid black;
+  padding: 10px;
+}
+
+.rect1 {
+  height: 15vh;
+  width: 5vw;
+  background-color: purple;
+  display: inline-block;
+}
+.rect2 {
+  height: 20vh;
+  width: 40vw;
+  display: inline-block;
+  background-color: green;
+  margin: 0 50px;
+}
+.circ {
+  height: 20vh;
+  width: 20vw;
+  border-radius: 50%;
+  background-color: blue;
+  display: inline-block;
+}
+
+.mid {
+  width: auto;
+  height: 20vh;
+  margin: 20px;
+  padding: 20px;
+  border: 3px dotted black;
+}
+
+.box {
+  width: auto;
+  height: 20vh;
+  background-color: yellow;
+  box-shadow: 10px 10px 5px 0px black;
+}
+
+.bot {
+  display: flex;
+  color: purple;
+  height: 35vmax;
+  width: 50%;
+  margin: auto;
+  border: 1px solid black;
+  box-shadow: 3px 2px 3px gray;
+}
+.hello {
+  text-align: center;
+  margin: auto;
+}
